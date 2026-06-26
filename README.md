@@ -5,7 +5,7 @@ A basic Static Application Security Testing (SAST) CLI tool built with Node.js.
 ## Features
 - Regex-based vulnerability scanning
 - Modular rule engine
-- CLI reporting
+- CLI reporting 
 
 ## Usage
 ```bash
