@@ -4,7 +4,7 @@ import { rules } from './rules.js';
 /**
  * Analyzes an array of files against the defined security rules.
  * @param {string[]} files Array of file paths to analyze.
- * @returns {Object[]} Array of finding objects.
+ * @returns {Object[]} Array of finding objects. 
  */
 export function analyzeFiles(files) {
   const findings = [];
