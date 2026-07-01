@@ -2,7 +2,7 @@ import { program } from 'commander';
 import chalk from 'chalk';
 import path from 'path';
 import { scanDirectory } from './src/scanner.js';
-import { analyzeFiles } from './src/analyzer.js';
+import { analyzeFiles } from './src/analyzer.js'; 
 import { generateReport } from './src/reporter.js';
 
 program
